@@ -1,5 +1,7 @@
 # Projeto Individual Módulo 4 Resilia
  
+### Modelo
+![modelo](https://github.com/ysmaelmarks/trabalho-individual-4/blob/main/model.png)
 
 ### QA Resilia
 
